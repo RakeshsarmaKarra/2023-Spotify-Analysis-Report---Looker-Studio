@@ -1,4 +1,5 @@
-# 2023 Spotify Analysis Report
+
+[![Image](https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/blob/main/2023_Spotify_Analysis_Report.jpg)](https://lookerstudio.google.com/s/vvDidkNoPIQ)
 
 ## Dataset Overview
 
@@ -114,4 +115,4 @@ This visualization highlights which tracks achieved broader distribution and cur
 - **Dashboard Features**: Interactive filters, KPI cards, tables, time-series charts, and comparative horizontal bar charts
 - **Last Updated**: 1/17/2024, 1:13 AM
 
-This dashboard enables stakeholders—whether music analysts, artists, or industry professionals—to explore streaming trends, understand audio characteristics that drive popularity, and benchmark artist performance in the competitive 2023 music landscape.
+This dashboard enables stakeholders whether music analysts, artists, or industry professionals to explore streaming trends, understand audio characteristics that drive popularity, and benchmark artist performance in the competitive 2023 music landscape.
